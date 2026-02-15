@@ -1,6 +1,9 @@
 🚀 The AI-Leveraged Professional Roadmap
+
 A 3-6 Month Action Plan to Become "AI-Proof" in 2026
+
 📌 Why This Roadmap?
+
 The entry-level job market has fundamentally shifted. Roles exposed to AI automation saw a 13% hiring decline in early 2026, while companies like IBM are tripling their junior intake for "AI-augmented" positions.
 
 The bottom line: Entry-level jobs aren't disappearing—they're evolving into "Level 2" roles where you manage AI systems rather than compete with them.
@@ -8,6 +11,7 @@ The bottom line: Entry-level jobs aren't disappearing—they're evolving into "L
 This roadmap will transform you from a generic candidate into an AI-native professional that companies are desperately hiring.
 
 🎯 What You'll Achieve
+
 By the end of 6 months, you will:
 
 ✅ Master 5+ essential AI tools across different categories
@@ -19,10 +23,13 @@ By the end of 6 months, you will:
 Time commitment: 10-15 hours per week
 
 📅 The Roadmap
+
 Phase 1: Foundation (Weeks 1-4)
+
 Build your AI literacy and create your first automation
 
 Week 1-2: Master Prompt Engineering
+
  Complete DeepLearning.AI's "Prompt Engineering for Developers" (free)
 
  Complete upGrad's ChatGPT course or Google's Introduction to Prompt Design
